@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lemi Debele
-- 🔭 I’m working on Fullstack Web Development, Native Mobile Development.
+- 🔭 I’m working on Machine Learning, Deep Learning and Data Science.
 - 🌱 I’m currently learning cloud technologies.
 - 📫 How to reach me **lemidebele@gmail.com**
 
