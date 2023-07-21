@@ -15,6 +15,8 @@
 <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white">
 <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white">
 <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white">
+<img src="https://img.shields.io/badge/-Gin-00ADD8?style=flat&logo=go&logoColor=white">
+<img src="https://img.shields.io/badge/-GORM-00ADD8?style=flat&logo=go&logoColor=white">
 <img src="https://img.shields.io/badge/-RESTful%20API-6DB33F?style=flat&logo=rest&logoColor=white">
 <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white">
 <img src="https://img.shields.io/badge/-Tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white">
