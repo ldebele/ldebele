@@ -6,6 +6,7 @@
 
 
 <h3 align="left">Tech Stack</h3>
+<p>
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white">
 <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white">
@@ -34,3 +35,4 @@
 <img src="https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white">
 <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/-DVC-EE4C2C?style=flat&logo=dvc&logoColor=white">
+</p>
