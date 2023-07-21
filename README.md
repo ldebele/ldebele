@@ -14,6 +14,7 @@
 <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white">
 <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white">
 <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white">
+<img src="https://img.shields.io/badge/-RESTful%20API-6DB33F?style=flat&logo=rest&logoColor=white">
 <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white">
 <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white">
 <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white">
@@ -36,3 +37,4 @@
 <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/-DVC-EE4C2C?style=flat&logo=dvc&logoColor=white">
 </p>
+
