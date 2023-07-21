@@ -14,10 +14,9 @@
 <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white">
 <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white">
 <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white">
-<img src="https://img.shields.io/badge/-RESTful%20API-6DB33F?style=flat&logo=rest&logoColor=white">
 <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white">
+<img src="https://img.shields.io/badge/-RESTful%20API-6DB33F?style=flat&logo=rest&logoColor=white">
 <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white">
-<img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white">
 <img src="https://img.shields.io/badge/-Tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white">
 <img src="https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white">
 <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white">
@@ -27,6 +26,7 @@
 <img src="https://img.shields.io/badge/-Seaborn-3888E3?style=flat&logo=seaborn&logoColor=white">
 <img src="https://img.shields.io/badge/-Plotly%20Express-3F4F75?style=flat&logo=plotly&logoColor=white">
 <img src="https://img.shields.io/badge/-MLflow-FF6600?style=flat&logo=mlflow&logoColor=white">
+<img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white">
 <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/-SQL-CC2927?style=flat&logo=sql&logoColor=white">
