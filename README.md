@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Lemi Debele
 - 🔭 I’m working on Machine Learning, Deep Learning and Data Science.
 - 🌱 I’m currently learning cloud technologies.
+- 👯 I’m looking to collaborate with other developers.
 - 📫 How to reach me **lemidebele@gmail.com**
 
 
