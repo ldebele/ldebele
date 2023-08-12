@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Lemi Debele
+- 👋 Hi, I’m Lemi Debela
 - 🔭 I’m working on Machine Learning, Deep Learning and Data Science.
 - 🌱 I’m currently learning cloud technologies.
 - 👯 I’m looking to collaborate with other developers.
